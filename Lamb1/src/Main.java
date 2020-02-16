@@ -7,8 +7,8 @@ public class Main {
 		Addition<Integer> plusInteger = (a,b) -> a + b;
 		
 		
-		System.out.println(plusInteger.sddSth(2, 2));
-		System.out.println(plusString.sddSth("Ala ma ", "kota"));
+		System.out.println(plusInteger.addSth(2, 2));
+		System.out.println(plusString.addSth("Ala ma ", "kota"));
 
 	}
 
